@@ -17,7 +17,7 @@ session_unset(); //padam semua session
 
 <div class="container-register">
 <div id="box-2">
-<img src="logo.png" class="img-logo">
+<img src="image/logo.png" class="img-logo"> <!-- letak folder untuk image -->
 <center>
 <br><br>
 <span class="normal">Login</span>
